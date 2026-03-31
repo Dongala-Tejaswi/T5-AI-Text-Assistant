@@ -24,7 +24,7 @@ T5-AI-Text-Assistant/
 └── screenshots/
 ▶️ How to Run
 1. Clone the Repository
-git clone https://github.com/your-username/T5-AI-Text-Assistant.git
+git clone https://github.com/Dongala-Tejaswi/T5-AI-Text-Assistant
 cd T5-AI-Text-Assistant
 2. Install Dependencies
 pip install -r requirements.txt
